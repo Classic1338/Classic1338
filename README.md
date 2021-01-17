@@ -12,7 +12,7 @@
 	Python *Basics*
 	
 ### Socials:
-	<a href = "https://www.youtube.com/channel/UCIfT4nxWaqUlU7IiYj5NYDA"> Youtube </a>
+<a href = "https://www.youtube.com/channel/UCIfT4nxWaqUlU7IiYj5NYDA"> Youtube </a>
 	<a href = "https://twitter.com/classic1337"> Twitter </a>
 	<a href = "https://discord.gg/P9Mp2GTYVt"> Discord </a>
 	
