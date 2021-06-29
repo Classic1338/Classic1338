@@ -2,7 +2,6 @@
 
 ### Projects I’m working on:
 	Saturn.technology
-	Digital Code <!-- Site for buying programmers to create you programs -->
 
 ### Languages I know:
 	C++
@@ -14,7 +13,6 @@
 ### Socials:
 <a href = "https://www.youtube.com/channel/UCIfT4nxWaqUlU7IiYj5NYDA"> Youtube </a>
 	<a href = "https://twitter.com/classic1337"> Twitter </a>
-	<a href = "https://discord.gg/P9Mp2GTYVt"> Discord </a>
 	
 ### About me:
 	Hello, My name is Tyler, I go by the alias "Classic1337" for unknown reasons if im honest,
