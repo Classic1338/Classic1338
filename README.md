@@ -12,7 +12,6 @@
 	
 ### Socials:
 <a href = "https://www.youtube.com/channel/UCIfT4nxWaqUlU7IiYj5NYDA"> Youtube </a>
-	<a href = "https://twitter.com/classic1337"> Twitter </a>
 	
 ### About me:
 	Hello, My name is Tyler, I go by the alias "Classic1337" for unknown reasons if im honest,
