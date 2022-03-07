@@ -10,7 +10,7 @@
 	Java *Basics*
 	C#
 	Python *Basics*
-	Assembly
+	Assembly *Basics*
 	
 ### Socials:
 <a href = "https://www.youtube.com/channel/UCIfT4nxWaqUlU7IiYj5NYDA"> Youtube </a>
