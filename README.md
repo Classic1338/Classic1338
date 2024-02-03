@@ -1,13 +1,14 @@
 ### Welcome!
 
 ### Projects I’m working on:
-<a href = "https://insidious.systems"> insidious.systems </a> <br>
-<a href = "https://www.cartelcheats.com"> Cartel Cheats </a> <br>
+<a href = "https://pulsefire.xyz"> PulseFire </a> <br>
+<a href = "https://www.lethality.io"> Lethality </a> <br>
 
 ### Projects I used to work on:
 <a href = "https://inertia.uno"> inertia.uno </a> <br>
 <a href = "https://penguware.xyz/"> penguware revival </a> <br>
-<a href = "http://s1lentnight.com/"> s1lentnight </a> <br>
+<a href = "https://s1lentnight.com/"> s1lentnight </a> <br>
+<a href = "https://cartelcheats.com/"> CartelCheats </a> <br>
 
 
 ### Languages I know:
