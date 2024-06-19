@@ -1,10 +1,11 @@
 ### Welcome!
 
 ### Projects I’m working on:
-<a href = "https://pulsefire.xyz"> PulseFire </a> <br>
-<a href = "https://www.lethality.io"> Lethality </a> <br>
+
 
 ### Projects I used to work on:
+<a href = "https://pulsefire.xyz"> PulseFire </a> <br>
+<a href = "https://www.lethality.io"> Lethality </a> <br>
 <a href = "https://inertia.uno"> inertia.uno </a> <br>
 <a href = "https://penguware.xyz/"> penguware revival </a> <br>
 <a href = "https://s1lentnight.com/"> s1lentnight </a> <br>
